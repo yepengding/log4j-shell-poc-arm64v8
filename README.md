@@ -1,6 +1,9 @@
 # log4j-shell-poc-arm64v8
 This is a fork optimized for arm64/v8 systems from [log4j-shell-poc](https://github.com/teimichael/log4j-shell-poc), a Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.
 
+## Technical Report
+https://github.com/yepengding/log4j-shell-poc-arm64v8/blob/main/ExploitingJNDI.pdf
+
 ## Workflow
 ### Set Java Environment
 - Download `jdk-8u60-linux-arm64-vfp-hflt.tar.gz` from [Oracle archives](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
